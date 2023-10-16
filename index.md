@@ -2,8 +2,6 @@
 
 - Feb 27, 28
 
-- Organizers
-
-Y. Nagai,
+- Organizers: Y. Nagai,
 T. Shimokawa,
 A. Tomiya
