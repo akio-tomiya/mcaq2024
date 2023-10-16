@@ -1,6 +1,6 @@
-# Modern Computational Approaches in Quantum Physics
-
-- Feb 27, 28
+- Language: Japanese
+- Feb 27, 28 2024
+- Place: OIST (Hybrid) 
 
 - Organizers: Y. Nagai,
 T. Shimokawa,
