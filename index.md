@@ -1,5 +1,6 @@
-# Modern Computational Approaches in Quantum Physics 2024 (MCAQP2024)
 
+# Workshop information 
+- Titile: Modern Computational Approaches in Quantum Physics 2024 (MCAQP2024)
 - Language: Japanese
 - 日時　Feb 27, 28 2024
 - Place: OIST (Hybrid)
@@ -40,3 +41,5 @@
 - Organizers: Y. Nagai,
 T. Shimokawa,
 A. Tomiya
+
+本ワークショップは、科学研究費補助金学術変革領域研究(A)「学習物理学の創成」からの補助を受けています。
