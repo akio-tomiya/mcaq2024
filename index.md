@@ -1,8 +1,8 @@
 # Modern Computational Approaches in Quantum Physics 2024 (MCAQP2024)
 
-# Language: Japanese
-# 日時　Feb 27, 28 2024
-# Place: OIST (Hybrid)
+- Language: Japanese
+- 日時　Feb 27, 28 2024
+- Place: OIST (Hybrid)
 
 # 趣旨
 計算物理学に関する分野は多岐にわたっているが、それぞれの研究者が分野の垣根を越えて交流することはあまりない。
