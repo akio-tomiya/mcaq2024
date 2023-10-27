@@ -1,3 +1,5 @@
+# Modern Computational Approaches in Quantum Physics 2024 (MCAQP2024)
+
 # Language: Japanese
 # 日時　Feb 27, 28 2024
 # Place: OIST (Hybrid)
