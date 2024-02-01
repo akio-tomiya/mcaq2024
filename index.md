@@ -2,7 +2,7 @@
 # Workshop information 
 - Titile: Modern Computational Approaches in Quantum Physics 2024 (MCAQP2024)
 - Language: Japanese
-- 日時　Feb 27, 28 2024
+- 日時　Feb 20, 21 2024
 - Place: OIST (Hybrid)
 
 # 趣旨
@@ -24,7 +24,7 @@
 
 # タイムスケジュール
 
-|  | 2/27(火) | 2/28(水) |
+|  | 2/20(火) | 2/21(水) |
 | --- | --- | --- | 
 | 9:30 - 10:30  | *A| - |
 | 10:30 - 11:00 | Discussion | Discussion |
